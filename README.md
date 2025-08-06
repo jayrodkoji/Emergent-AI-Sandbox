@@ -33,11 +33,13 @@ Our goal is to illumicate the hidden patterns and core essence underlying emerge
 git clone https://github.com/jayrodkoji/caeli-emergent-ai.git
 cd caeli-emergent-ai
 pip install -r requirements.txt
+```
 
 ### Running the Sandbox
 
 ```bash
 python src/simulation.py
+```
 
 this runs a default simulation with visualization.
 
