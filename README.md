@@ -27,9 +27,28 @@ Our goal is to illumicate the hidden patterns and core essence underlying emerge
 - Python 3.8+
 - See `Requirements.txt` for dependencies
 
-# Installation 
+### Installation 
 
 ```bash
 git clone https://github.com/jayrodkoji/caeli-emergent-ai.git
 cd caeli-emergent-ai
 pip install -r requirements.txt
+
+### Running the Sandbox
+
+```bash
+python src/simulation.py
+
+this runs a default simulation with visualization.
+
+### Contributing
+Contributions are welcome! Please open issues or submit pull requests.
+
+### License
+
+
+### Roadmap & Future Work
+- Expand agent coommunication and learning abilities
+- Incorporate network-based agent interactions
+- Integrate quantum randomness more deeply
+- Publish research papers and blog posts documenting insights
